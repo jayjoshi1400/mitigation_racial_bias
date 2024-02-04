@@ -1,3 +1,7 @@
+# Racial Bias in Criminal Justice Visualized: Code Black
+
+By ... [Teddy Xinyuan Chen](https://teddysc.me) ...
+
 ## Inspiration
 
 ## What it does
