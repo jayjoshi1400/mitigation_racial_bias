@@ -4,7 +4,7 @@ By ... [Teddy Xinyuan Chen](https://teddysc.me) ...
 
 ## Inspiration
 
-I (Teddy) attended a Black History Month event focused on `soul foods` on campus and was inspired to make more people learn a little bit more about black culture. Our team researched about the bias existing in the criminal justice systemte and wanted to help in mitigating it, Therefore, we decided to go for systemmatic analysis and mitigation bias against black in the society, esp. in the criminal justice system and around machine learning models. That's why we made this, to visually show the racial bias in the models when it comes to predicting recividism rate between black and the general population with some ways to mitigate it.
+Our team researched about the bias existing in the criminal justice systemte and wanted to help in mitigating it, Therefore, we decided to go for systemmatic analysis and mitigation bias against black in the society, esp. in the criminal justice system and around machine learning models. That's why we made this, to visually show the racial bias in the models when it comes to predicting recividism rate between black and the general population with some ways to mitigate it.
 
 ## What it does
 
@@ -12,9 +12,7 @@ We wanted to show that such a bias existed and ways in which we can mitigate it.
 
 ## How we built it
 
-We searched for a dataset with relevant data and then looked into precprocessing this data. We used PCA for feature selection and then applied the right machine learning classification models to it. After that, we graphically represented this data, such that, it is easier to interpret.
-
-Front end: a carousel page for showing figures visualizing the models' results. Built with Next.js and Tailwind CSS, hosted on Cloudflare.
+We searched for a dataset with relevant data and then looked into precprocessing this data. We used PCA for feature selection and then applied the right machine learning classification models to it. After that, we graphically represented this data, such that, it is easier to interpret. Front end: a carousel page for showing figures visualizing the models' results. Built with Next.js and Tailwind CSS, hosted on Cloudflare.
 
 ## Challenges we ran into
 
@@ -24,10 +22,13 @@ Next.js's buggy documentation also cost us a lot of time.
 
 ## Accomplishments that we're proud of
 
+We discovered that the current system used to predict recividism might be flawed and biased. We leveraged data driven techniques to make more accurate prediction on recividism and hence, seeing to it that the bias that these systems have was eliminated.
 
 
 ## What we learned
 
-
+We learned how to leverage technology for social good and promote equality. Moreover, we learned a lot about the use of machine learning model and data visualization.
 
 ## What's next for Mitigating Racial Bias in Criminal Justice: Code Black
+
+We can work with more recent data as well as leverage more cutting edge models in order to eliminate this bias even further. We can also make the website more interactive with the functionality to run and test different models in the background. 
