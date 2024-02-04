@@ -1,6 +1,23 @@
 # Mitigating Racial Bias in Criminal Justice: Code Black
 
+MLH NC State Hackathon Project (Feb 2 - Feb 3, 2024)
+
 By Rishabh Kala, Jay Joshi, [Teddy Xinyuan Chen](https://teddysc.me), and Lixing Zheng.
+
+- [Mitigating Racial Bias in Criminal Justice: Code Black](#mitigating-racial-bias-in-criminal-justice-code-black)
+  - [Demo](#demo)
+  - [Inspiration](#inspiration)
+  - [What it does](#what-it-does)
+  - [How we built it](#how-we-built-it)
+  - [Challenges we ran into](#challenges-we-ran-into)
+  - [Accomplishments that we're proud of](#accomplishments-that-were-proud-of)
+  - [What we learned](#what-we-learned)
+  - [What's next for Mitigating Racial Bias in Criminal Justice: Code Black](#whats-next-for-mitigating-racial-bias-in-criminal-justice-code-black)
+
+
+## Demo
+
+https://hack-ncsu.teddysc.me
 
 ## Inspiration
 
