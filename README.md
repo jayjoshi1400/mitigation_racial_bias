@@ -1,6 +1,6 @@
 # Mitigating Racial Bias in Criminal Justice: Code Black
 
-By ... [Teddy Xinyuan Chen](https://teddysc.me) ...
+By Rishabh Kala, Jay Joshi, [Teddy Xinyuan Chen](https://teddysc.me), and Lixing Zheng.
 
 ## Inspiration
 
