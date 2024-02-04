@@ -13,11 +13,14 @@ We wanted to show that such a bias existed and ways in which we can mitigate it.
 ## How we built it
 
 We searched for a dataset with relevant data and then looked into precprocessing this data. We used PCA for feature selection and then applied the right machine learning classification models to it. After that, we graphically represented this data, such that, it is easier to interpret.
-------------- add part for front-end----------------------- 
+
+Front end: a carousel page for showing figures visualizing the models' results. Built with Next.js and Tailwind CSS, hosted on Cloudflare.
 
 ## Challenges we ran into
 
 The biggest challenge which we ran into was finding and interpreting the right dataset. We needed a credible and reliable dataset for this project and this proved to be quite challenging in the beginning, but collectively, we were able to find the right fit. Moreover, we had to also select the right machine learning models for this project and that was challenging but again teamwork came to the rescue and we were able to pick the right ones.
+
+Next.js's buggy documentation also cost us a lot of time.
 
 ## Accomplishments that we're proud of
 
